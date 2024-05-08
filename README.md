@@ -1,8 +1,8 @@
-###👨🏾‍💻 Welcome to My GitHub Profile! 👨🏾‍🦱
+### 👨🏾‍💻 Welcome to My GitHub Profile! 👨🏾‍🦱 
 Hey there! 
 I'm Apolo Guilherme and I'm 17.
 
-##About Me 💖
+## About Me 💖
 
 - 🔭 I’m currently studying Computer Engineering.
 - 🎶 I love listening to music while coding and studying.
