@@ -1,16 +1,14 @@
-### Hi there 👋
+###👨🏾‍💻 Welcome to My GitHub Profile! 👨🏾‍🦱
+Hey there! 
+I'm Apolo Guilherme and I'm 17.
 
-<!--
-**Apolo-Gui/Apolo-Gui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me 💖
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying Computer Engineering.
+- 🎶 I love listening to music while coding and studying.
+- 🦸‍♀️ Huge fan of Marvel and DC superheroes.
+- 💕 I'm all about pink and cute things! 🎀💖🌸
+- 🏰 Proud Hufflepuff and believer in loyalty, dedication, and friendship! 💛🦡
+- 👯 I’m looking to collaborate on exciting tech projects.
+- 🎀 Pronouns: She/Her
+- ⚡ Fun fact: I can spend hours lost in a good book or sketching away!
