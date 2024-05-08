@@ -1,14 +1,13 @@
-### 👨🏾‍💻 Welcome to My GitHub Profile! 👨🏾‍🦱 
-Hey there! 
-I'm Apolo Guilherme and I'm 17.
+### 👨🏾‍💻 Welcome to my GitHub profile! 👨🏾‍🦱
+Hey!
+My name is Apolo Guilherme and I am 17 years old.
 
-## About Me 💖
+## About me 💖
 
-- 🔭 I’m currently studying Computer Engineering.
-- 🎶 I love listening to music while coding and studying.
-- 🦸‍♀️ Huge fan of Marvel and DC superheroes.
-- 💕 I'm all about pink and cute things! 🎀💖🌸
-- 🏰 Proud Hufflepuff and believer in loyalty, dedication, and friendship! 💛🦡
-- 👯 I’m looking to collaborate on exciting tech projects.
-- 🎀 Pronouns: She/Her
-- ⚡ Fun fact: I can spend hours lost in a good book or sketching away!
+- 🔭 I'm currently studying IT at Faetec Petrópolis.
+- 🎶 I love listening to music while programming and studying.
+- 🦸‍♀️ Big fan of Marvel and DC superheroes.
+- 📚 I love books! 💖
+- 👯 I look to collaborate on interesting technological projects.
+- 🕶 Pronouns: He/His
+- ⚡ Fun fact: I can spend hours lost in a good book or playing games!
