@@ -1,6 +1,6 @@
 ### 👨🏾‍💻 Welcome to my GitHub profile! 👨🏾‍🦱
 Hey!
-My name is Apolo Guilherme and I am 17 years old.
+My name is Apolo Guilherme and I am 18 years old.
 
 ## About me 💖
 
