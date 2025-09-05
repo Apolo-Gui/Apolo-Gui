@@ -25,6 +25,3 @@ My name is Apolo Guilherme and I am 18 years old.
 
 ## Currently Studying 
 [![Studying](https://skillicons.dev/icons?i=aws,react,bootstrap,c,mysql,java,nodejs)](https://skillicons.dev)
-
-## Send me a messages 
-[![Sending](https://skillicons.dev/icons?i=gmail,discord)](https://skillicons.dev)(https://instagram.com/apolo_guilherme)
