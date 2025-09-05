@@ -21,4 +21,10 @@ My name is Apolo Guilherme and I am 18 years old.
 
 ## My favorite languages  👨🏾‍💻
 
-[![For Job](https://skillicons.dev/icons?i=js,html,css,postgree)](https://skillicons.dev)
+[![For Job](https://skillicons.dev/icons?i=js,html,css,postgres)](https://skillicons.dev)
+
+## Currently Studying 
+[![Studying](https://skillicons.dev/icons?i=aws,react,bootstrap,c,mysql,java,nodejs)](https://skillicons.dev)
+
+## Send me a messages 
+[![Sending](https://skillicons.dev/icons?i=gmail,discord)](https://skillicons.dev)(https://instagram.com/apolo_guilherme)
