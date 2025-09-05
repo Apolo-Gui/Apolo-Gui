@@ -20,4 +20,6 @@ My name is Apolo Guilherme and I am 18 years old.
 
 
 ## My languages  👨🏾‍💻
-![Linguagens](https://img.shields.io/github/languages/count/Apolo-Gui/TCC)
+
+![Gitea language count](https://img.shields.io/gitea/languages/count/:Apolo-Gui/:TCC)
+
