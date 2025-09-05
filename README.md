@@ -19,6 +19,6 @@ My name is Apolo Guilherme and I am 18 years old.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075855957006)
 
 
-## My languages  👨🏾‍💻
+## My favorite languages  👨🏾‍💻
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/:user)
+https://skillicons.dev/icons?i=js,ts,html,css,postgree,mariadb,canva
