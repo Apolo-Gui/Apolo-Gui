@@ -4,7 +4,7 @@ My name is Apolo Guilherme and I am 18 years old.
 
 ## About me 🩵
 
-- 🔭 Graduated as a computer technician from Faetec Petrópolis.
+- 🔭 Graduated as a computer technician from Faeterj Petrópolis.
 - 🎶 I love listening to music while programming and studying.
 - 🦸‍♀️ Big fan of Marvel and DC superheroes.
 - 📚 I love books! 💖
